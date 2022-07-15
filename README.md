@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
-- Most used Languages: 
+- 👀 Most used Languages: 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact&theme=cobalt"/>
 
 <!---
