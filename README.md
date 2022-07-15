@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact&theme=cobalt"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact&theme=cobalt&count_private=true"/>
 </div>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=evaesqmor&theme=cobalt&show_icons=true&count_private=true"/>
