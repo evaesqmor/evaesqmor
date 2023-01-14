@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
-<div>
+<!--<div>
   <img src="https://github-readme-stats.vercel.app/api?username=evaesqmor&theme=cobalt&show_icons=true&count_private=true"/>
-</div>
+</div>-->
 <!--<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evaesqmor&langs_count=10&theme=cobalt&show_icons=true&count_private=true"/>
 </div>-->
