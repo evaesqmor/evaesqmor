@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
 
 <div>
   <a href="https://github.com/evaesqmor">
-    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/username=evaesqmor&layout=compact&langs_count=16&theme=dracula"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=evaesqmor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=evaesqmor&theme=cobalt&show_icons=true&count_private=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=evaesqmor&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=evaesqmor)
